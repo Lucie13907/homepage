@@ -1,2 +1,2 @@
-# homepage
+# Homepage
 My first personal website. After all, it is just a resume.
