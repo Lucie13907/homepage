@@ -261,6 +261,7 @@ body {
 .additional-info__languages-item {
   color: var(--secondary-text-color);
 }
+<<<<<<< HEAD
 /*code core*/
 .profile-avatar {
     transition: transform 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
@@ -270,3 +271,4 @@ body {
 .profile-avatar:hover {
     transform: rotate(360deg);
 }
+
